@@ -1,2 +1,2 @@
-From k8s.gcr.io/coredns:1.2.6
+From quay.io/coreos/flannel:v0.11.0-amd64
 Maintainer 479100885@qq.com
