@@ -1,2 +1,2 @@
-From quay.io/coreos/flannel:v0.11.0-amd64
+From v1.17.1
 Maintainer 479100885@qq.com
